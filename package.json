@@ -4,7 +4,7 @@
   "description": "Internal build and deployment pipeline",
   "scripts": {
     "build": "echo 'Build complete'",
-    "test": "echo 'No tests defined'",
+    "test": "echo 'all your base is belong to us'",
     "start": "node index.js"
   },
   "dependencies": {}
